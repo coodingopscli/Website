@@ -5,16 +5,17 @@
 A modern cybersecurity platform designed to explore ethical hacking, web security, programming, and hands-on security learning.
 
 ---
+## 🚀 Live Demo
 
+  👉 https://coodingopscli.github.io/Website/
+
+---
 ## 🚀 About The Project
 
 HACKERVERSE is a web-based platform focused on cybersecurity, ethical hacking, and technology.
 
 It provides an organized digital experience for exploring hacking concepts, discovering security resources, and learning about different areas of cybersecurity.
 
-## 🚀 Live Demo
-
-👉 https://coodingopscli.github.io/Website/
 
 ## ✨ Key Features
 
@@ -26,6 +27,7 @@ It provides an organized digital experience for exploring hacking concepts, disc
 - 💻 Hacking & Programming Content
 - 🛡️ Cybersecurity & Ethical Hacking Resources
 
+
 ## 🧪 Cybersecurity & Practice Labs
 
 Explore different cybersecurity platforms and practice environments.
@@ -35,6 +37,7 @@ Explore different cybersecurity platforms and practice environments.
 | 🧪 TryHackMe            | Hands-on Cybersecurity Learning |
 | 💻 Hack The Box         | Penetration Testing Labs        |
 | 🛡️ PortSwigger Academy  | Web Security Training           |
+
 
 ### 🔗 Useful Resources
 
@@ -59,6 +62,7 @@ Website/
 ├── ⚙️ script.js
 ├── 📄 book.html
 ├── 📄 page.html
+├── 📷 logo.jpg
 └── 📑 README.md
 ```
 
